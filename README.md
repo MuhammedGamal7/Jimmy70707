@@ -62,12 +62,12 @@ I enjoy working on problems that combine **data, algorithms, and software engine
 🔸 **Private Chatbot with RAG**
 - Retrieval-Augmented Generation chatbot for document-based Q&A.
 - Built using LangChain, vector databases, and LLMs.
-- 🔗 [Repository](https://github.com/Jimmy70707/Private-Chatbot-RAG)
+- 🔗 [Repository](https://github.com/Jimmy70707/Chatbot-using-RAG)
 
 🔸 **Churn Prediction Assistant**
 - End-to-end churn prediction system with ML, FastAPI, Streamlit, and LLM integration.
 - Supports natural language queries and structured predictions.
-- 🔗 [Repository](https://github.com/Jimmy70707/churn-prediction-assistant)
+- 🔗 [Repository](https://github.com/Jimmy70707/Churn-Prediction)
 
 ---
 
